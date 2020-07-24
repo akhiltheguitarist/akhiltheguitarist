@@ -1,8 +1,8 @@
 # Hi, I'm Akhil :panda_face: #
 
-I am a software engineer, from Kerala, India. 
-All aspects of software development cycle excites me.
-Mostly out in the wild learning something new.
+I am a software engineer, from Kerala, India. <br/>
+All aspects of software development cycle excites me. </br>
+Mostly out in the wild learning something new. <br/>
 Optimistic and always on the look out to make things better.
 
 A regular learner on [@Udemy](www.udemy.com) and [@coursera](www.coursera.org) <br/>
