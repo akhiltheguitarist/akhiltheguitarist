@@ -4,10 +4,8 @@
 <img align="right" alt="Akhil's Blog" src="https://media-exp1.licdn.com/dms/image/C5603AQGSfMIVf1BFuw/profile-displayphoto-shrink_200_200/0?e=1600905600&v=beta&t=M8g97-qeLjoL081idO6Hpwch1e_qP7mskvP33BhgwyU"/>
 </a>
 
-I am a software engineer, from Kerala, India. <br/>
-All aspects of software development cycle excites me. </br>
-Mostly out in the wild learning something new. <br/>
-Optimistic and always on the look out to make things better.
+I am a software engineer, from Kerala, India. All aspects of software development cycle excites me. </br>
+Mostly out in the wild learning something new. Optimistic and always on the look out to make things better.
 
 
 A regular learner on [@Udemy](www.udemy.com) and [@coursera](www.coursera.org) <br/>
