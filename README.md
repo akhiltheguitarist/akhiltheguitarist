@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Akhil :panda_face: #
 
-<!--
-**akhiltheguitarist/akhiltheguitarist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer, from Kerala, India. All aspects of software development cycle excites me.
+Mostly out in the wild learning something new.
+Optimistic and always on the look out to make things better.
 
-Here are some ideas to get you started:
+A regular learner on [@Udemy](www.udemy.com) and [@coursera](www.coursera.org) <br/>
+Besides coding, I'm a calligrapher, guitarist and a amateur blogger.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech: Javascript, ExtJS, React, Scala, Java, ETL, Big Data 
+
+<a href="https://www.linkedin.com/in/akhil-j-a614b8100/">
+<img align="left" alt="Akhil's LinkedIn" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
+</a>
+
+<a href="https://twitter.com/akitheguitarist">
+<img align="left" alt="Akhil's Twitter" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>
+</a>
