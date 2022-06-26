@@ -12,7 +12,7 @@ Mostly out in the wild learning something new. Optimistic and always on the look
 A regular learner on [@Udemy](www.udemy.com) and [@coursera](www.coursera.org) <br/>
 Besides coding, I'm a <br/> :black_nib: Calligrapher <br/> :guitar: Guitarist <br/> :book: Amateur blogger 
 
-:man_technologist:   Javascript, ExtJS, React, Scala, Java, ETL, Big Data <br/>
+:man_technologist:   Javascript, React, Go, Typescript, Java, Scala, ETL, Big Data <br/>
 :cloud:   AWS, Azure
 
 <a href="https://www.linkedin.com/in/akhil-j-a614b8100/">
